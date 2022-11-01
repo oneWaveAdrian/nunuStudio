@@ -1,14 +1,14 @@
 :root {
 	/* Fonts */
-	--font-main-family:"Arial";
+	--font-main-family:"Lato";
 	--font-main-color:#FFFFFF;
 	--font-main-size:12px;
 	/* GUI Color Palette */
 	--color-light:#FFFFFF;
 	--color-graph:#AAAAAA;
-	--color-gray-light: #999999;
+	--color-gray-light: #9b9b9b;
 	--button-over-color:#555555;
-	--box-color:#444444;
+	--box-color:#232323;
 	--panel-color:#333333;
 	--bar-color:#222222;
 
